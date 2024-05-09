@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Inter fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 115.3099%;
+  ascent-override: 84.0128%;
+  descent-override: 20.9416%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter fallback";
+  src: local("Segoe UI");
+  size-adjust: 107.1644%;
+  ascent-override: 90.3985%;
+  descent-override: 22.5334%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter fallback";
+  src: local("Roboto");
+  size-adjust: 107.2828%;
+  ascent-override: 90.2987%;
+  descent-override: 22.5085%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 106.0574%;
+  ascent-override: 91.342%;
+  descent-override: 22.7685%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter fallback";
+  src: local("Arial");
+  size-adjust: 107.4014%;
+  ascent-override: 90.199%;
+  descent-override: 22.4836%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter fallback";
+  src: local("Noto Sans");
+  size-adjust: 100.6532%;
+  ascent-override: 96.2463%;
+  descent-override: 23.991%;
+  line-gap-override: 0%;
+}
